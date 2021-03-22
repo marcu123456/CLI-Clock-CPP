@@ -4,4 +4,4 @@ if [ "$EUID" -ne 0 ]
   exit
 fi
     g++ -o cli-clock cli-clock.cpp
-    mv cli-clock /usr/bin/local
+    mv cli-clock /usr/local/bin/
