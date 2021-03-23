@@ -5,8 +5,8 @@
 #include <chrono>
 
 // C Headers
-#include <stdio.h>
-#include <time.h>
+#include <stdio.h> // For outputing the time to screen
+#include <time.h> // To get the time
 
 using namespace std;
 
